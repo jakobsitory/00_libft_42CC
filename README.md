@@ -10,6 +10,11 @@ The main task was to implement a series of standard C library functions, as well
 - Creating additional utility functions like `ft_split`, `ft_itoa`, and linked list manipulation functions.
 - Writing clean, efficient, and well-documented code to ensure readability and maintainability.
 
+ ## **Key Achievements:**
+- Gained a strong foundation in C programming and memory management.
+- Developed a reusable library that can be used in subsequent projects.
+- Improved problem-solving skills and attention to detail through the meticulous implementation and testing of each function.
+
 ## **Installation**
 To install the Project, follow these steps:
 1. Clone the repository: **`git clone git@github.com:jakobsitory/00_libft_42CC.git`**
